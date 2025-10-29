@@ -1,4 +1,4 @@
-Welcome to my College GitHub👋
+## Welcome to my College GitHub page 👋
 
 <!--
 **Amaan-5705/Amaan-5705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
